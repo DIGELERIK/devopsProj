@@ -1,3 +1,3 @@
 import os
-print(2)
+print("TWO(2)")
 os.system('python3 count3.py')
