@@ -1,3 +1,3 @@
 import os
-print(1)
+print("ONE(1)")
 os.system('python3 count2.py')
